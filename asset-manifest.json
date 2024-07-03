@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chandraCodebase/chandracodebase.github.io/tree/main/static/css/main.f855e6bc.css",
+    "main.js": "/chandraCodebase/chandracodebase.github.io/tree/main/static/js/main.1aa5144c.js",
+    "static/js/453.05511228.chunk.js": "/chandraCodebase/chandracodebase.github.io/tree/main/static/js/453.05511228.chunk.js",
+    "index.html": "/chandraCodebase/chandracodebase.github.io/tree/main/index.html",
+    "main.f855e6bc.css.map": "/chandraCodebase/chandracodebase.github.io/tree/main/static/css/main.f855e6bc.css.map",
+    "main.1aa5144c.js.map": "/chandraCodebase/chandracodebase.github.io/tree/main/static/js/main.1aa5144c.js.map",
+    "453.05511228.chunk.js.map": "/chandraCodebase/chandracodebase.github.io/tree/main/static/js/453.05511228.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1aa5144c.js"
+  ]
+}
